@@ -1,4 +1,4 @@
-# Linkedin-bot
+# Linkedin-extension
 
 Are you tired on tapping connect button on linkedin every day? Try this extension!
 
