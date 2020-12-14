@@ -4,7 +4,11 @@ Are you tired on tapping connect button on linkedin every day? Try this extensio
 
 ## How to get started?
 
-Add the chrome extension to your chrome browser from here.
+Clone the repo on your local machine
+
+Try using this command : `git clone https://github.com/Aarush-Goyal/linkedin-bot.git`
+
+Add the chrome extension to your chrome browser
 
 Go on [Linkedin - My Network](https://www.linkedin.com/mynetwork/)
 
