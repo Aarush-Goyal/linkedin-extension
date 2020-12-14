@@ -8,7 +8,7 @@ Clone the repo on your local machine
 
 Try using this command : `git clone https://github.com/Aarush-Goyal/linkedin-bot.git`
 
-Add the chrome extension to your chrome browser
+Add the chrome extension to your chrome browser by going [here](chrome://extensions) and clicking on `Load Unpacked`
 
 Go on [Linkedin - My Network](https://www.linkedin.com/mynetwork/)
 
